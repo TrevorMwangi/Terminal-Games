@@ -36,5 +36,3 @@ while True:
         print("You were below the number!")
 
 print("It only took you", guesses, "guess" if guesses == 1 else "guesses")
-
-    
