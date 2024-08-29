@@ -1,2 +1,2 @@
 # Terminal-Games
- games made in python
+play in terminal
